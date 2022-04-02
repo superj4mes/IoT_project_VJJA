@@ -1,0 +1,7 @@
+^BUILD$
+^.mbed$
+^ntp-client$
+^mbed-os$
+^Adafruit_SSD1331_MbedOS6$
+^Adafruit-GFX-MbedOS6$
+^mbed-mqtt$

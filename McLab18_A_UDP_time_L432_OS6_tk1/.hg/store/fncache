@@ -1,0 +1,5 @@
+data/mbed-os.lib.i
+data/mbed_app.json.i
+data/README.md.i
+data/main.cpp.i
+data/ntp-client.lib.i
